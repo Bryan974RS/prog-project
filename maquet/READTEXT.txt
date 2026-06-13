@@ -1,0 +1,119 @@
+ACCUEIL
+│
+├── Démarrer séance
+│   │
+│   ├── Séance programmée
+│   │   │
+│   │   ├── Liste des programmes
+│   │   │   ├── Ajouter séance
+│   │   │   ├── Modifier séance
+│   │   │   └── Supprimer séance
+│   │   │
+│   │   └── Séance en cours
+│   │       │
+│   │       ├── Début série
+│   │       ├── Validation série
+│   │       ├── Fin exercice
+│   │       └── Fin séance
+│   │           │
+│   │           └── Statistiques séance
+│   │
+│   └── Séance libre
+│       │
+│       ├── Recherche exercice
+│       ├── Ajouter exercice
+│       ├── Fin exercice
+│       ├── Ajouter séance (optionnel)
+│       └── Fin séance
+│           │
+│           └── Statistiques séance
+│
+├── Calendrier
+│   │
+│   ├── Vue mois
+│   ├── Vue semaine
+│   └── Vue jour
+│       │
+│       └── Détail séance
+│
+├── Progression
+│   │
+│   ├── Exercices favoris
+│   ├── Progression
+│   ├── Stagnation
+│   ├── Régression
+│   └── Détail exercice
+│
+├── Historique
+│   │
+│   ├── Liste des séances
+│   └── Détail complet séance
+│       │
+│       ├── Chronologie
+│       ├── Exercices
+│       ├── Séries
+│       ├── Temps repos
+│       └── Records battus
+│
+├── Objectifs
+│   │
+│   ├── Force
+│   ├── Street Workout
+│   ├── Poids
+│   ├── Endurance
+│   │
+│   └── Détail objectif
+│       │
+│       ├── Prérequis
+│       ├── Plan d'action
+│       ├── Conseils
+│       └── Prochaine étape
+│
+├── Street Workout
+│   │
+│   ├── Débutant
+│   ├── Intermédiaire
+│   ├── Avancé
+│   ├── Expert
+│   │
+│   └── Fiche figure
+│       │
+│       ├── Description
+│       ├── Prérequis
+│       ├── Étapes
+│       ├── Conseils
+│       └── Définir comme objectif
+│               │
+│               └── Objectifs
+│
+├── Étirements
+│   │
+│   ├── Dos
+│   ├── Épaules
+│   ├── Hanches
+│   ├── Jambes
+│   ├── Poignets
+│   │
+│   └── Fiche étirement
+│       │
+│       ├── Tutoriel
+│       ├── Muscles étirés
+│       ├── Bénéfices
+│       └── Ajouter à ma routine
+│
+├── Profil
+│   │
+│   ├── Informations personnelles
+│   ├── Poids
+│   ├── Taille
+│   ├── Calories maintien
+│   ├── Objectifs physiques
+│   └── Régularité
+│
+└── Réglages
+    │
+    ├── Compte
+    ├── Notifications
+    ├── Préférences
+    ├── Export données
+    └── Thème
